@@ -1,8 +1,8 @@
 # Projeto Zoom App Clone da JS Expert Week 2.0
 
+
 Lecionado por: [Erick Wendel](https://github.com/ErickWendel)
 
-<br>
 - Acesse o [home](./aula01/public/pages/home/index.html) para acessar a home page
 - Acesse o [room](./aula01/public/page/room/index.html) uma room específica
 
