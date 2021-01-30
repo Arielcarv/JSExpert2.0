@@ -3,16 +3,16 @@
 
 Lecionado por: [Erick Wendel](https://github.com/ErickWendel)
 
-- Acesse o [home](./aula01/public/pages/home/index.html) para acessar a home page
-- Acesse o [room](./aula01/public/page/room/index.html) uma room específica
+- Acesse o [home](./aula04/public/pages/home/index.html) para acessar a home page
+- Acesse o [room](./aula04/public/page/room/index.html) uma room específica
 
 ## Home Page
 
-![home page](./aula01/public/prints/home.png)
+![home page](./aula04/public/prints/home.png)
 
 ## Room
 
-![room](./aula01/public/prints/room.png)
+![room](./aula04/public/prints/Zoom Room.gif)
 
 ### Créditos
 
