@@ -12,7 +12,7 @@ Lecionado por: [Erick Wendel](https://github.com/ErickWendel)
 
 ## Room
 
-![room](./aula04/public/prints/Zoom Room .gif)
+![room](./aula04/public/prints/ZoomRoom.gif)
 
 ### Créditos
 
